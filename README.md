@@ -26,3 +26,10 @@ To build strong NumPy fundamentals required for:
 - Jupyter Notebook
 
 ## 📁 Repository Structure
+
+
+## 🚀 Progress
+- [x] Beginner
+- [ ] Intermediate
+- [ ] Advanced
+- [ ] Mini Projects
