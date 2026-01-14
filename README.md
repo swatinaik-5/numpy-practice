@@ -27,6 +27,35 @@ To build strong NumPy fundamentals required for:
 
 ## 📁 Repository Structure
 
+numpy-practice-for-data-science/
+│
+├── README.md
+│
+├── 01_beginner/
+│   ├── array_creation.ipynb
+│   ├── indexing_slicing.ipynb
+│   └── basic_operations.ipynb
+│
+├── 02_intermediate/
+│   ├── reshaping.ipynb
+│   ├── boolean_indexing.ipynb
+│   ├── statistics.ipynb
+│   └── random_sorting.ipynb
+│
+├── 03_advanced/
+│   ├── broadcasting.ipynb
+│   ├── linear_algebra.ipynb
+│   ├── missing_values.ipynb
+│   └── vectorization.ipynb
+│
+├── 04_mini_projects/
+│   ├── normalization.ipynb
+│   ├── mse_from_scratch.ipynb
+│   └── gradient_descent_numpy.ipynb
+│
+└── requirements.txt
+
+
 
 ## 🚀 Progress
 - [x] Beginner
